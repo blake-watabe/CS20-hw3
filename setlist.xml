@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<xml>
+<setlist>
+    <container>
+        <header>Jim and Pam's Wedding Setlist</header>
+        <ul>
+            <li> 
+                <song>
+                    <title>Song: I Have Nothing</title>
+                    <artist>Artist: Whitney Houston</artist>
+                    <genre>Genre: RnB Soul</genre>
+                </song>
+            </li>
+        <li>
+                <song>
+                    <title>Song: My Cherie Amour</title>
+                    <artist>Artist: Stevie Wonder</artist>
+                    <genre>Genre: RnB Soul</genre>
+                </song>
+            </li>
+            <li>
+                <song>
+                    <title>Song: Love Song</title>
+                    <artist>Artist: 311</artist>
+                    <genre>Genre: Alternative</genre>
+                </song>
+            </li>
+            <li>
+                <song>
+                    <title>Song: Love Train</title>
+                    <artist>Artist: Silk Sonic</artist>
+                    <genre>Genre: RnB Soul</genre>
+                </song>
+            </li>
+            <li>
+                <song>
+                    <title>Song: A Thousand Years</title>
+                    <artist>Artist: Christina Perri</artist>
+                    <genre>Genre: Pop</genre>
+                </song>
+            </li>
+            <li>
+                <song>
+                    <title>Song: I Feel It Coming</title>
+                    <artist>Artist: The Weeknd</artist>
+                    <artist>Artist: Daft Punk</artist>
+                    <genre>Genre: Pop</genre>
+                    <genre>Genre: RnB Soul</genre>
+                    <genre>Genre: Disco</genre>
+                </song>
+            </li>
+            <li>
+                <song>
+                    <title>Song: Get You</title>
+                    <artist>Artist: Daniel Caesar</artist>
+                    <genre>Genre: Pop</genre>
+                    <genre>Genre: RnB Soul</genre>
+                </song>
+            </li>
+            <li>
+                <song>
+                    <title>Song: Perfect</title>
+                    <artist>Artist: Ed Sheeran</artist>
+                    <genre>Genre: Pop</genre>
+                </song>
+            </li>
+            <li>
+                <song>
+                    <title>Song: Young and Beautiful</title>
+                    <artist>Artist: Lana Del Rey</artist>
+                    <genre>Genre: Pop</genre>
+                </song>
+            </li>
+            <li>
+                <song>
+                    <title>Song: Golden Hour</title>
+                    <artist>Artist: Kacey Musgraves</artist>
+                    <genre>Genre: Pop</genre>
+                    <genre>Genre: Country</genre>
+                </song>
+            </li>
+        </ul>
+    </container>
+</setlist>
+</xml>

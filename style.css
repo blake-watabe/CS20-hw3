@@ -1,0 +1,51 @@
+@font-face {
+    font-family: Hyogo;
+    src: url(Hyogo-regular.otf);
+}
+
+setlist {
+    background-image: url(./aaron-burden-FHWgqOniOSY-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: Hyogo, sans-serif;
+
+    display: flex;
+    justify-content: center;
+    width: 100%; max-width: 1000px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+container {
+    margin: 12px;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(255, 254, 247, 0.849);
+    width: 60%; max-width: 600px;
+}
+
+ul {
+    margin: 20px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+li {
+    display: flex;
+    justify-content: center;
+    width: 100%; max-width: 600px;
+}
+
+song {
+    color: rgba(77, 76, 76, 0.781);
+    display: flex;
+    flex-direction: column;
+    width: 50%; max-width: 200px;
+}
